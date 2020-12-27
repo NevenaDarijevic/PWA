@@ -5,7 +5,7 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "Scope": "/",
-    "start_url": "https://nevenadarijevic.github.io/pwa/",
+    "start_url": "https://nevenadarijevic.github.io/PWA/",
     "icons": [
       {
         "src": "images/icons/icon-72x72.png",
